@@ -1,8 +1,8 @@
 # Basic IMDB clone in Django
 
-Basic IMDB type of website  built in django web framework using Python. 
+Basic IMDB type of website  built in django web framework using Python.
+using OMBD API key.
 
-## Getting Started
 
 -Install the prerequisites
 -Run the server
