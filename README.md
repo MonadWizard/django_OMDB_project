@@ -1,4 +1,4 @@
-# Basic IMDB clone in Django
+# Using OMDB API try to create a custom movie search web application.
 
 Basic IMDB type of website  built in django web framework using Python.
 using OMBD API key.
